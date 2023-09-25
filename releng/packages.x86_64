@@ -142,6 +142,7 @@ xf86-input-synaptics
 
 # Packages
 
+terminator
 git
 base-devel
 linux-headers
